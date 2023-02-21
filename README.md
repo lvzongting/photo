@@ -1,2 +1,6 @@
+这几年长相变化比较大，导致很多人，一段时间不见就不认识我了，所以在这里陆续更新一下自己的一些照片，来缓解这个问题。
 # photo
-每年更新的照片
+2023年02月08日
+![image](https://github.com/lvzongting/photo/blob/main/20230208.jpg)
+2023年01月29日
+![image](https://github.com/lvzongting/photo/blob/main/20230129.jpg)
